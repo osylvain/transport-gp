@@ -5990,6 +5990,9 @@ a.wit-btn {
   11. FOOTER.
 ============================================================================= */
 /* ---- 11.1. footer Style 1 -------------- */
+footer h4 {
+	font-weight: bold;
+}
 #to-top {
 	position: fixed;
 	right: 10px;
