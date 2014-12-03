@@ -87,11 +87,11 @@ blockquote {
 	border: 1px #777 solid !important;
 }
 header.top-head .logo a, .foot-logo {
-	background: transparent url('../images/gp/logo-small.png') no-repeat 0% 50%;
+	background: transparent url('../images/logo-small.png') no-repeat 0% 50%;
 	background-size: auto 100%;
 }
 .footer-top-2 .foot-logo {
-    background: transparent url('../images/gp/logo-small.png') no-repeat;
+    background: transparent url('../images/logo-small.png') no-repeat;
 }
 .head-style2 .top-head .logo a, .head-style3 .logo a {
 	background: transparent url('../images/logo-white.png') no-repeat 50% 0 !important;
@@ -174,11 +174,11 @@ header.top-head .logo a, .foot-logo {
    (min-resolution: 1.5dppx) {
 
 	header.top-head .logo a, .foot-logo {
-		background: transparent url('../images/logo@2x.png') no-repeat;
+		background: transparent url('../images/logo-small.png') no-repeat;
 		background-size: 200px 38px;
 	}
 	.footer-top-2 .foot-logo {
-	    background: transparent url('../images/logo@2x.png') no-repeat;
+	    background: transparent url('../images/logo-small.png') no-repeat;
 	    background-size: 200px 38px;
 	}
 }
