@@ -5709,9 +5709,10 @@ img.loader{
 	background-image: none !important;
 }
 .tparrows {
-	width: auto !important;
-	height: auto !important;
-	background-image: none !important;
+	/*width: auto !important;*/
+	/*height: auto !important;*/
+	/*background-image: none !important;*/
+	display:none;
 }
 .tp-arr-allwrapper {
 	margin: 0 10px;

@@ -135,6 +135,9 @@
 		float:none;
 		clear:both;
 	}
+	.footer-contact-container {
+		padding-top: 50px;
+	}
 	.masonry .post-image,.masonry .post-image img {
 	    height: auto;
 	}
@@ -303,16 +306,19 @@
 	.pageWrapper{
 		z-index:9;
 		position:relative;
-		background:#fff
+		/*background:#fff*/
 	}
 	.pageWrapper.fixedPage{
 		z-index:9;
 		position:relative;
-		background:#fff;
+		/*background:#fff;*/
 		margin:0 !important
 	}
 	body{
 		overflow-x:hidden
+	}
+	.nav-contact-dropdown i.fa {
+		float:left;
 	}
 	.responsive-nav{
 		position:fixed;
@@ -666,6 +672,9 @@
 	}
 }
 @media (max-width: 480px){
+	#to-top {
+		display: none;
+	}
 	.dark-bg .btn-large{
 		font-size:18px
 	}
@@ -790,7 +799,7 @@
 		display:block
 	}
 	.slick-slider .slick-list{
-		padding-bottom:40px
+		/*padding-bottom:40px*/
 	}
 	.portfolio-img-slick .slick-list{
 		padding-bottom:0px
