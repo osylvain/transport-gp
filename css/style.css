@@ -2335,9 +2335,9 @@ blockquote span {
 	position: relative;
 	margin-bottom: 20px;
 	padding: 0 0 20px;
-	border-bottom: 1px #555solid;
+	border-bottom: 1px #555 solid;
 	font-weight:bold;
-	text-transform:capitalize;
+	/*text-transform:none;*/
 	font-size:20px;
 }
 .footer-top .block-head {
@@ -2346,13 +2346,13 @@ blockquote span {
 	text-transform:uppercase
 }
 .block-head:before{
-	position: absolute;
-	bottom: -3px;
-	left: 20px;
-	width: 35px;
-	height: 5px;
-	content: "";
-	display:inline-block;
+	/*position: absolute;*/
+	/*bottom: -3px;*/
+	/*left: 20px;*/
+	/*width: 35px;*/
+	/*height: 5px;*/
+	/*content: "";*/
+	/*display:inline-block;*/
 }
 .block-head:after{
 	position: absolute;
@@ -2371,8 +2371,8 @@ blockquote span {
     padding-left:30px
 }
 .block-head.center:before{
-	left: 50%;
-    margin-left:-17.5px
+	/*left: 50%;*/
+    /*margin-left:-17.5px*/
 }
 .block-head.center:after{
 	left: 50%;
