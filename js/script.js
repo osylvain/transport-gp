@@ -534,8 +534,9 @@
         autoplay: true,
         autoplaySpeed: 5000,
         slidesToShow: 1,
-        touchMove: true,
-        vertical: true,
+        touchMove: false,
+        swipe: false,
+        variableWidth: true,
         slidesToScroll: 1
     });
 

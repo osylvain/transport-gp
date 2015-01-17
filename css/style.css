@@ -101,7 +101,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #bbb;
-	font-size: 13px;
+	font-size: 14px;
     line-height: 1.428571429;
 	font-family: "Open Sans", Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -2047,7 +2047,7 @@ h6 {
 p {
 	margin: 0 0 20px 0;
 	line-height: 22px;
-	font-size:13px
+	font-size:14px
 }
 .white-bg {
 	background: #333;
@@ -6433,6 +6433,16 @@ footer .no-margin{
 .top-bar .social-list li span {
 	line-height: 39px;
 }
+
+/******* tips and tricks page *******/
+#tips-and-tricks .content .cell-12 {
+	margin-top: 40px;
+}
+
+#tips-and-tricks .subtitle {
+	font-size: 18px;
+}
+
 /* ==========================================================================
   12. FIXED LAYOUT STYLES.
 ============================================================================= */
