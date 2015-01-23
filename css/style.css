@@ -6840,3 +6840,11 @@ a.main-color:hover,.project-name:hover,.box-top .more-btn:hover{
 #fowd,iframe[src="about:blank"],.nicescroll-rails{
 	display:none !important;
 }
+
+#team {
+    height: 300px;
+}
+
+#philosophy {
+    height: 275px;
+}
